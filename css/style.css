@@ -1,0 +1,37 @@
+img{
+    height: auto;
+	  width:500px;
+    margin-left: 20px;
+    padding: 10px,10px,10px,10px;
+    border: 1px dotted blue;
+}
+
+img:hover{
+	border: 3px solid orange;
+}
+
+.favion{
+    height: auto;
+	  width:50px;
+}
+.favion:hover{
+    height: auto;
+	  width:80px;
+}
+nav a{
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav a:hover{
+  text-decoration: underline;
+  color:blue;
+  border: 2px solid blue;
+}
+
+
+.nav1 li{
+  float:center;
+  margin-right: 20px;
+}
